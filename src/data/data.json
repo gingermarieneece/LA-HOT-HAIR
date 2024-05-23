@@ -128,19 +128,19 @@
   ],
   "Team": [
     {
-      "img": "../img/team/image_meinecke.JPG",
+      "img": "./image_meinecke.JPG",
       "name": "Meinecke Hardy"
     },
     {
-      "img": "../img/team/image_lindsey.JPG",
+      "img": "./image_lindsey.JPG",
       "name": "Lindsey Patt"
     },
     {
-      "img": "../img/team/image_christin.JPG",
+      "img": "./image_christin.JPG",
       "name": "Christin Atkinson"
     },
     {
-      "img": "../img/team/image_Rachel.JPG",
+      "img": "./image_rachel.JPG",
       "name": "Rachel Ross Bunch"
     }
   ],
